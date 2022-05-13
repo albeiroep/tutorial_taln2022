@@ -6,13 +6,13 @@ Face à un corpus dans un domaine de connaissances spécifique, certaines étape
 
 ## Organisateurs
 
-- Yannis **HARALAMBOUS**, *IMT Atlantique, Brest, France.  DECIDE, UMR 6285 Lab-STICC, Brest, France.*
-- Tian **TIAN**, *IMT Atlantique, Brest, France.*  DECIDE, UMR 6285 Lab-STICC, Brest, France.
-- Albeiro **ESPINAL**, *DSI Global Services, Le Plessis Robinson, France. IMT Atlantique, Brest, France.  DECIDE, UMR 6285 Lab-STICC, Brest France*
+- Yannis **HARALAMBOUS**, *IMT Atlantique, Brest, France. DECIDE, UMR 6285 Lab-STICC, Brest, France,*
+- Tian **TIAN**, *IMT Atlantique, Brest, France. DECIDE, UMR 6285 Lab-STICC, Brest, France,*
+- Albeiro **ESPINAL**, *DSI Global Services, Le Plessis Robinson, France. IMT Atlantique, Brest, France.  DECIDE, UMR 6285 Lab-STICC, Brest France.*
 
 ## Adresse mail de contact
  
-Vous pouvez nous contacter sur [tian.tian@imt-atlantique.fr](mailto:admin@cloudhadoop.com) et [albeiro.espinal@imt-atlantique.fr](mailto:admin@cloudhadoop.com)
+Vous pouvez nous contacter sur [yannis.haralambous@imt-atlantique.fr](mailto:yannis.haralambous@imt-atlantique.fr), [tian.tian@imt-atlantique.fr](mailto:tian.tian@imt-atlantique.fr) et [albeiro.espinal@imt-atlantique.fr](mailto:albeiro.espinal@imt-atlantique.fr)
 
 ## Description du tutoriel
 
@@ -35,21 +35,21 @@ Dans les trois cas nous allons comparer notre méthode «maison» artisanale à 
 
 ### Corpus
 
-- 60 articles du journal Le Monde
+- 60 articles de presse du journal Le Monde concernant l'ouragan Irma qui a frappé l'Atlantique Nord en septembre 2017.
 
 ### Environnement de travail
 
 Les outils utilisés pour ce chaîne de traitements seront :
 
-- Environnement Linux, Mac OS ou Windows.
-- Talismane *[Urieli & Tanguy, 2013]* et Grew *[Guillaume & Perrier, 2015]* pour les approches «maison» 
-- Termsuite *[Cram, 2016]* et spaCy (https://spacy.io/), pour comparer les résultats et évaluer les performances
-- Python 3.X
-- Librairies Python : spacy / transformers
+- Environnement Linux, Mac OS ou Windows, 
+- Talismane *[Urieli & Tanguy, 2013]* et Grew *[Guillaume & Perrier, 2015]* pour les approches «maison»,  
+- Termsuite *[Cram, 2016]* et spaCy (https://spacy.io/), pour comparer les résultats et évaluer les performances, 
+- Python 3.X, 
+- Librairies Python : spacy / transformers.
 
 ## Public cible
 
-- Des personnes intéressées par le prétraitement de corpus dans des domaines spécifiques
+- Des personnes intéressées par le prétraitement de corpus dans des domaines spécifiques,
 - Avoir un minimum de connaissances en programmation Python
 
 ## Durée.
