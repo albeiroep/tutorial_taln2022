@@ -59,7 +59,7 @@ Les outils utilisés pour ce chaîne de traitements seront :
 
 ## IMPORTANT 
 
-Pour participer à ce tutoriel, merci de compléter la formulaire ici (). 
+Pour participer à ce tutoriel, merci de compléter la formulaire ici (https://forms.gle/W49a1iFVCZjSiYbR8). 
 Cela nous permet de mieux connaître notre public et de mieux vous aider. 
 
 ## References
