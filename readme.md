@@ -6,13 +6,14 @@ Face à un corpus dans un domaine de connaissances spécifique, certaines étape
 
 ## Organisateurs
 
-- Yannis **HARALAMBOUS**, *IMT Atlantique, Brest, France. DECIDE, UMR 6285 Lab-STICC, Brest, France,*
+
 - Tian **TIAN**, *IMT Atlantique, Brest, France. DECIDE, UMR 6285 Lab-STICC, Brest, France,*
 - Albeiro **ESPINAL**, *DSI Global Services, Le Plessis Robinson, France. IMT Atlantique, Brest, France.  DECIDE, UMR 6285 Lab-STICC, Brest France.*
+- Yannis **HARALAMBOUS**, *IMT Atlantique, Brest, France. DECIDE, UMR 6285 Lab-STICC, Brest, France,*
 
 ## Adresse mail de contact
  
-Vous pouvez nous contacter sur [yannis.haralambous@imt-atlantique.fr](mailto:yannis.haralambous@imt-atlantique.fr), [tian.tian@imt-atlantique.fr](mailto:tian.tian@imt-atlantique.fr) et [albeiro.espinal@imt-atlantique.fr](mailto:albeiro.espinal@imt-atlantique.fr)
+Vous pouvez nous contacter sur [tian.tian@imt-atlantique.fr](mailto:tian.tian@imt-atlantique.fr) et [albeiro.espinal@imt-atlantique.fr](mailto:albeiro.espinal@imt-atlantique.fr) 
 
 ## Description du tutoriel
 
@@ -54,7 +55,7 @@ Les outils utilisés pour ce chaîne de traitements seront :
 
 ## Durée.
 
-- Une demi-journée.
+- 9h-12h30 lundi 27 juin
 
 ## References
 
