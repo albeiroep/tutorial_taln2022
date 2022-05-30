@@ -32,13 +32,13 @@ sur l’analyse morphosyntaxique et sur certains traits grammaticaux, résoudre 
 Ce tutoriel sous forme d'un TP, a pour but de montrer sur un exemple concret (des articles de presse concernant l'ouragan Irma qui a frappé l'Atlantique Nord en septembre 2017) comment préparer un corpus dans un  domaine spécifique en prenant soin d'extraire les termes complexes, d'identifier les entités nommées et de résoudre les anaphores pronominales.
 Dans les trois cas nous allons comparer notre méthode «maison» artisanale à des outils existants.
 
-## Outils utilisés
 
-### Corpus
+
+## Corpus
 
 - 60 articles de presse du journal Le Monde concernant l'ouragan Irma qui a frappé l'Atlantique Nord en septembre 2017.
 
-### Environnement de travail
+## Environnement de travail
 
 Les outils utilisés pour ce chaîne de traitements seront :
 
@@ -53,9 +53,14 @@ Les outils utilisés pour ce chaîne de traitements seront :
 - Des personnes intéressées par le prétraitement de corpus dans des domaines spécifiques,
 - Avoir un minimum de connaissances en programmation Python
 
-## Durée.
+## Date et Durée
 
-- 9h-12h30 lundi 27 juin
+- lundi 27 juin 9h-12h30 
+
+## IMPORTANT 
+
+Pour participer à ce tutoriel, merci de compléter la formulaire ici (). 
+Cela nous permet de mieux connaître notre public et de mieux vous aider. 
 
 ## References
 
@@ -71,3 +76,5 @@ ledge in the Talismane toolkit. Thèse de doctorat, Université de Toulouse II l
 - *URIELI A. & TANGUY L. (2013). L’apport du faisceau dans l’analyse syntaxique en dépen-
 dances par transitions : études de cas avec l’analyseur Talismane. In Actes de la 20e conférence sur le Traitement
 Automatique des Langues Naturelles (TALN’2013), p. 188–201.*
+
+
