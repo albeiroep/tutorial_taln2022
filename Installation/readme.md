@@ -68,12 +68,12 @@ Placez dans un dossier le fichier \textit{irma.txt}. Ce dossier ne doit que cont
 
 ```
 java -cp termsuite-core-3.0.10.jar fr.univnantes.termsuite.tools.TerminologyExtractorCLI \
-  -t /home/spiritus/Downloads/TestTutoriel/TermSuite/treetagger/ \
-  -c /home/spiritus/Downloads/TestTutoriel/TermSuite/corpus/ \
+  -t /treetaggerpath/ \
+  -c /corpus_folder/ \
   -l fr \
   --post-filter-property spec \
   --post-filter-top-n 50 \
-  --tsv /home/spiritus/Downloads/TestTutoriel/TermSuite/treetagger/terminology.tsv
+  --tsv /output_path/terminology.tsv
 ```
 
 Le paramètre "spec" indique que la métrique *weirdness ratio* doit être utilisée par TermSuite.
