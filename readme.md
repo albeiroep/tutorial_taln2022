@@ -53,7 +53,7 @@ Les outils utilisés pour ce chaîne de traitements seront :
 - Des personnes intéressées par le prétraitement de corpus dans des domaines spécifiques,
 - Avoir un minimum de connaissances en programmation Python
 
-## Date et Durée
+## Date et durée
 
 - lundi 27 juin 9h-12h30 
 
