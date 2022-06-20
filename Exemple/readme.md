@@ -64,7 +64,7 @@ Réalisez l’extraction de candidats à partir de votre implémentation de la C
 
 ### Comparaison de votre implémentation avec les termes extraits par l’outil TermSuite
 
-Placez dans un dossier le fichier \textit{irma.txt}. Ce dossier ne doit que contenir les fichiers .txt du corpus étudié. Après, exécutez la commande :
+Placez dans un dossier le fichier *irma.txt*. Ce dossier ne doit que contenir les fichiers .txt du corpus étudié. Après, exécutez la commande :
 
 ```
 java -cp termsuite-core-3.0.10.jar fr.univnantes.termsuite.tools.TerminologyExtractorCLI \
